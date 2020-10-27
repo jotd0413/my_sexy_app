@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my_sexy_app/static/css/main.5958c626.chunk.css",
+    "main.css": "/my_sexy_app/static/css/main.f1a1f737.chunk.css",
     "main.js": "/my_sexy_app/static/js/main.7ca1a815.chunk.js",
     "main.js.map": "/my_sexy_app/static/js/main.7ca1a815.chunk.js.map",
     "runtime-main.js": "/my_sexy_app/static/js/runtime-main.5d5435a8.js",
@@ -8,15 +8,15 @@
     "static/js/2.1dada748.chunk.js": "/my_sexy_app/static/js/2.1dada748.chunk.js",
     "static/js/2.1dada748.chunk.js.map": "/my_sexy_app/static/js/2.1dada748.chunk.js.map",
     "index.html": "/my_sexy_app/index.html",
-    "precache-manifest.454d7d4e6c5c201d7e10f58c855b4dc1.js": "/my_sexy_app/precache-manifest.454d7d4e6c5c201d7e10f58c855b4dc1.js",
+    "precache-manifest.0785e47cc2e40837e3e0a4746d40f297.js": "/my_sexy_app/precache-manifest.0785e47cc2e40837e3e0a4746d40f297.js",
     "service-worker.js": "/my_sexy_app/service-worker.js",
-    "static/css/main.5958c626.chunk.css.map": "/my_sexy_app/static/css/main.5958c626.chunk.css.map",
+    "static/css/main.f1a1f737.chunk.css.map": "/my_sexy_app/static/css/main.f1a1f737.chunk.css.map",
     "static/js/2.1dada748.chunk.js.LICENSE.txt": "/my_sexy_app/static/js/2.1dada748.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5d5435a8.js",
     "static/js/2.1dada748.chunk.js",
-    "static/css/main.5958c626.chunk.css",
+    "static/css/main.f1a1f737.chunk.css",
     "static/js/main.7ca1a815.chunk.js"
   ]
 }
